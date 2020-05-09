@@ -4,6 +4,6 @@
 </head>
 <body>
   <h1>Example projects</h1>
-  <footer>rvickery 2020</footer>
+  <footer>srikanth 2020</footer>
 </body>
 </html>
